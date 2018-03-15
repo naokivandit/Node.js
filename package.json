@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "realtime chat",
+  "main": "chat.js",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node chat.js "
+  },
+    "engines": {
+    "node": "9.5.0"
+  },
+  "author": "naoki ishii",
+  "license": "ISC"
+}
